@@ -6,4 +6,4 @@ SVG实现的生命周期图展示，对应关系如下：
 生命周期阶段->多个工作流组  
 一个工作流组->多个工作流  
 一个工作流->多个流转节点  
-lifecycle.png
+![lifecycle](https://github.com/Cherokeeli/lifecycle-flowchart/blob/master/clip/lifecycle.png)
